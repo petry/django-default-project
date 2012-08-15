@@ -2,6 +2,8 @@
 
 Simple project with dependancies to test apps with django 
 
+[![Build Status](https://secure.travis-ci.org/petry/django-default-project.png?branch=master)](http://travis-ci.org/petry/django-default-project)
+
 
 ## Install
 
