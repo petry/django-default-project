@@ -7,3 +7,5 @@ htmlcov
 .coverage
 
 .idea
+
+example.sqlite

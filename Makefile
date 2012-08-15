@@ -4,7 +4,7 @@ deps:
 	@pip install -r requirements_test.txt
 
 setup: deps
-	@python manage.py syncdb
+	@python manage.py syncdb --settings example_project.settings_local
 
 run:
 	@python manage.py runserver 0.0.0.0:8000 --settings example_project.settings_local
