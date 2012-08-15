@@ -1,21 +1,18 @@
-django-init-project
-===================
+# django-init-project
 
-A Simple project with dependancies to test apps with django 
+Simple project with dependancies to test apps with django 
 
-Install
--------
+
+## Install
 
     $ make setup
 
 
-Running tests
--------------
+## Running tests
 
     $ make test
 
 
-Running project
----------------
+## Running project
 
     $ make run
